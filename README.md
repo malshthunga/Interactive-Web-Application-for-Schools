@@ -1,2 +1,14 @@
-# Interactive-Web-Application-for-Schools
-Real-time web platform with live polls, chat, and avatar selection — built for interactive school events using React, Next.js, and Firebase
+
+# Mirror-XR-AF26
+
+### Butterfly Wall 
+
+- Folder: butterfly
+
+### Interactive AI Studio
+
+- Audience iPad UI: ipad
+- Admin iPad UI: ipad-admin
+- Mira UI & logic: Mirror XR Mira iPad UI
+- Chat or interaction engine: mirror-xr-chat
+- Projector output: projector
